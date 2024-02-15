@@ -1,4 +1,4 @@
-var data = [0, 0, 0, 100];
+var data = [33, 34, 0, 33];
 var colors = ['#FF6384', '#36A2EB', '#FFFF00', '#808080'];
 
 var canvas = document.getElementById('myPieChart');
